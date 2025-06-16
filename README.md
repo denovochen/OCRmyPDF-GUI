@@ -2,7 +2,7 @@
 
 OCRmyPDF-GUI是一个图形用户界面，让[OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)命令行工具的强大功能变得简单易用。通过直观的界面，您可以为扫描的PDF文件添加文本层，使其可搜索和可复制粘贴，而无需记忆复杂的命令行参数。
 
-![OCRmyPDF-GUI截图](docs/images/screenshot.png)
+![img.png](docs/images/img.png)
 
 ## 主要特点
 
